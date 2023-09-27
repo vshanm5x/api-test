@@ -1,0 +1,20 @@
+plugins:
+- id: blueocean-dashboard
+- id: blueocean-pipeline-api-impl
+- id: jobConfigHistory
+- id: blueocean-display-url
+- id: blueocean-rest-impl
+- id: blueocean-events
+- id: blueocean-i18n
+- id: blueocean-git-pipeline
+- id: blueocean-bitbucket-pipeline
+- id: blueocean-github-pipeline
+- id: blueocean-rest
+- id: blueocean-pipeline-editor
+- id: build-monitor-plugin
+- id: blueocean-web
+- id: blueocean-core-js
+- id: blueocean-personalization
+- id: jenkins-design-language
+- id: blueocean-config
+- id: blueocean-jwt
